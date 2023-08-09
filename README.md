@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - Email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
 - Website: [dwirangga.my.id](https://www.dwirangga.my.id)
 
-- [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+- asdasd [asdasdasd](http://stackoverflow.com){:target="_blank" rel="noopener"}
