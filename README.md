@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - Instagram: [@virgi.dr](https://www.instagram.com/virgi.dr/)
 - Email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
 - Website: [dwirangga.my.id](https://www.dwirangga.my.id)
+
+- [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
