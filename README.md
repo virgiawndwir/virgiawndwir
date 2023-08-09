@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - another Hard Skills: `Linux`, `GIT Version Control`, `CI/CD`, `RESt API`, `SEO`, `UI Design`.
 
 ### Touch me //
-- email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
+- Business (Whatsapp): [Virgi's Whatsapp](https://www.wa.me/6281287188918)
+- Instagram: [@virgi.dr](https://www.instagram.com/virgi.dr/)
+- Email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
+- Website: [dwirangga.my.id](https://www.dwirangga.my.id)
