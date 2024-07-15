@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 - Pronouns **He/Him/His**
-- Graduated as a `Software Engineering` at **SMK Wikrama Bogor**
+- Graduated as a `Software Engineering` at **Wikrama Vocational Highschool**
 - Fluent Programming Languages in `PHP`, `Javascript`
 - Frameworks & libraries: `Laravel`, `Node JS`, `React JS`, `Next JS`, `jQuery`, `AJAX`, `Tailwind`, `SASS/LESS`, `Bootstrap`.
 - another Hard Skills: `Linux`, `VPS (Virtual Private Server)`, `Jira`,  `GIT Version Control`, `CI/CD`, `RESt API`, `SEO`, `UI Design`, `PostgreSQL`, `Nginx`.
