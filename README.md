@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - another Hard Skills: `Linux`, `VPS (Virtual Private Server)`, `Jira`,  `GIT Version Control`, `CI/CD`, `RESt API`, `SEO`, `UI Design`, `PostgreSQL`, `Nginx`.
 
 ### Touch me //
-- Business (Whatsapp): [Touche me](https://wa.me/6281287188918?text=Hi%2C%20Virgi.%20I%20have%20an%20idea%20to%20build%20a%20business!)
+- Business (WhatsApp): [Touche me](https://wa.me/6281287188918?text=Hi%2C%20Virgi.%20I%20have%20an%20idea%20to%20build%20a%20business!)
 - Instagram: [@virgi.dr](https://www.instagram.com/virgi.dr/)
 - Email: [virgiawndwir@gmail.com](mailto:virgiawndwir@gmail.com)
 - Website: [dwirangga.my.id](https://www.dwirangga.my.id)
